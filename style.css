@@ -24,7 +24,7 @@ background-color: rgb(50, 167, 145);
 
 
 .trybewarts-login{
-    display: center;
+    display: flex;
     align-items: center; 
     border-radius: 8px;
 }
