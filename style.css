@@ -74,3 +74,8 @@ main {
 #house {
   margin: 10px;
 }
+
+.avalia {
+  display: flex;
+  flex-direction: row;
+}
