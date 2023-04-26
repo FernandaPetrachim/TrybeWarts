@@ -24,8 +24,11 @@
 
         <main>
             <form id="evaluation-form">
+            <div class="nome-completo">
             <input id="input-name" placeholder="Nome">
             <input id="input-lastname" placeholder="Sobrenome">
+            </div>
+            <div class="email-e-casa">
             <input id="input-email" placeholder="Email">
 
         <select id="house">
@@ -34,13 +37,52 @@
             <option id="corvinode-house" value="Corvinode">Corvinode</option>
             <option id="pytherina-house" value="Pytherina">Pytherina</option>
         </select>
+        </div>
         <label id="label-family">Qual sua família?</label>
-            <label for="frontend">Frontend</label>
-            <input type="radio" name="family" value="Frontend" id="frontend">
-            <label for="backend">Backend</label>
-            <input type="radio" name="family" value="Backend" id="backend">
-            <label for="fullstack">FullStack</label>
-            <input type="radio" name="family" value="FullStack" id="fullstack">
+        <label for="frontend">Frontend</label>
+        <input type="radio" name="family" value="Frontend" id="frontend">
+        <label for="backend">Backend</label>
+        <input type="radio" name="family" value="Backend" id="backend">
+        <label for="fullstack">FullStack</label>
+        <input type="radio" name="family" value="FullStack" id="fullstack">
+
+        <label id="label-content">Qual conteúdo você está com mais vontade de aprender?</label>
+        <label>HoFs</label>
+        <input type="checkbox" class="subject" value="HoFs">
+        <label>Jest</label>
+        <input type="checkbox" class="subject" value="Jest">
+        <label>Promises</label>
+        <input type="checkbox" class="subject" value="Promises">
+        <label>React</label>
+        <input type="checkbox" class="subject" value="React">
+        <label>SQL</label>
+        <input type="checkbox" class="subject" value="SQL">
+        <label>Python</label>
+        <input type="checkbox" class="subject" value="Python">
+
+        <div class="avalia">
+            <label id="label-rate">Como você avalia a Trybewarts?</label>
+            <input type="radio" name="rate" id="" value="1">
+            <p>1</p>
+            <input type="radio" name="rate" id="" value="2">
+            <p>2</p>
+            <input type="radio" name="rate" id="" value="3">
+            <p>3</p>
+            <input type="radio" name="rate" id="" value="4">
+            <p>4</p>
+            <input type="radio" name="rate" id="" value="5">
+            <p>5</p>
+            <input type="radio" name="rate" id="" value="6">
+            <p>6</p>
+            <input type="radio" name="rate" id="" value="7">
+            <p>7</p>
+            <input type="radio" name="rate" id="" value="8">
+            <p>8</p>
+            <input type="radio" name="rate" id="" value="9">
+            <p>9</p>
+            <input type="radio" name="rate" id="" value="10">
+            <p>10</p>
+            </div>
         </form>
             <img src="images/trybewarts-colored.svg" id="trybewarts-forms-logo">
         </main>
