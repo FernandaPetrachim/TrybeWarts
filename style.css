@@ -46,5 +46,31 @@ main {
 }
 
 #trybewarts-forms-logo {
-height: 500px;
+  height: 500px;
+}
+
+.nome-completo {
+  display: flex;
+  flex-direction: row;
+}
+
+#input-name {
+  margin: 10px;
+}
+
+#input-lastname {
+  margin: 10px;
+}
+
+.email-e-casa {
+  display: flex;
+  flex-direction: row;
+}
+
+#input-email {
+  margin: 10px;
+}
+
+#house {
+  margin: 10px;
 }
