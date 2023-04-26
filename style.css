@@ -1,0 +1,37 @@
+body {
+  
+}
+
+.header {
+display: flex;
+flex-direction: row;
+justify-content: space-around; 
+align-self: center; 
+background-color: rgb(50, 167, 145);
+}
+
+#Trybewarts {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    
+}
+.trybewarts-header-logo {
+    display: flex;
+    align-items: center;
+}
+
+
+
+.trybewarts-login{
+    display: center;
+    align-items: center; 
+    border-radius: 8px;
+}
+
+button {
+    background-color:purple;
+    color: black;
+    border-radius: 8px;
+    border: 2px solid #7e0add;
+}
