@@ -16,10 +16,10 @@ checkbox.addEventListener('click', () => {
   buttonSubmit.disabled = false;
 });
 
-const textAreaLength = () => {
+const areaText = () => {
   const textArea = document.querySelector('#textarea');
   textArea.addEventListener('input', () => {
     document.querySelector('#counter').innerText = `${500 - textArea.value.length}`;
   });
 };
-textAreaLength();
+areaText();
