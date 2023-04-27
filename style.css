@@ -1,5 +1,6 @@
 body {
   display: row;
+  background-color: rgb(224, 220, 220);
 }
 
 .header {
@@ -33,6 +34,11 @@ body {
   color: black;
   border-radius: 8px;
   border: 2px solid purple;
+}
+
+h2{
+  display: center;
+  justify-content: center;
 }
 
 main {
@@ -78,4 +84,5 @@ main {
 .avalia {
   display: flex;
   flex-direction: row;
+  gap: 5px;
 }
