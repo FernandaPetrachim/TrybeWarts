@@ -16,7 +16,6 @@ checkbox.addEventListener('click', () => {
   buttonSubmit.disabled = false;
 });
 
-
 const textAreaLength = () => {
   const textArea = document.querySelector('#textarea');
   textArea.addEventListener('input', () => {
@@ -24,4 +23,3 @@ const textAreaLength = () => {
   });
 };
 textAreaLength();
-
