@@ -1,0 +1,134 @@
+* , :after , :before {
+  box-sizing: border-box;
+}
+
+body {
+  display: row;
+  background-color: rgb(224, 220, 220);
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-self: center;
+  background-color: rgb(50, 167, 145);
+}
+
+#Trybewarts {
+  display: flex;
+  align-items: center;
+  width: fit-content;
+}
+
+.trybewarts-header-logo {
+  display: flex;
+  align-items: center;
+  height: 70px;
+}
+
+.trybewarts-login {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  border-radius: 30px;
+}
+
+#buttonEntrar {
+  background-color: rgb(190, 80, 190);
+  color: black;
+  border-radius: 8px;
+  border: 2px solid rgb(124, 35, 124);
+}
+
+h2 {
+  display: center;
+  justify-content: center;
+}
+
+main {
+  display: flex;
+  flex-flow: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 50px 40px;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+}
+
+#trybewarts-forms-logo {
+  display: flex;
+  height: 500px;
+}
+
+.nome-completo {
+  display: flex;
+  flex-direction: row;
+}
+
+#input-name {
+  margin: 10px;
+}
+
+#input-lastname {
+  margin: 10px;
+}
+
+.email-e-casa {
+  display: flex;
+  flex-direction: row;
+}
+
+#input-email {
+  margin: 10px;
+}
+
+#house {
+  margin: 10px;
+}
+
+.labelContent {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  flex: none;
+}
+
+.segundaContent {
+  width: 200px;
+}
+
+.family {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.contentLabel {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 5px;
+}
+
+#label-family {
+  display: flex;
+}
+
+.avalia {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+#submit-btn {
+  width: 80px;
+  height: 40px;
+  font-size: large;
+  font-family: initial;
+  color: black;
+  background-color: rgb(228, 222, 222);
+}
