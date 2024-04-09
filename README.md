@@ -24,6 +24,7 @@ Utilizamos tecnologias web modernas, como HTML, CSS e JavaScript, para criar uma
 - Envio de Feedback: Após preencher o formulário, os estudantes podem enviar seus feedbacks, que serão registrados em nosso sistema para análise pela administração da escola.
 
 ## Tecnologias Utilizadas
+
 HTML
 CSS
 JAVASCRIPT
