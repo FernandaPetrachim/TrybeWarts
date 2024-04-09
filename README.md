@@ -25,9 +25,9 @@ Utilizamos tecnologias web modernas, como HTML, CSS e JavaScript, para criar uma
 
 ## Tecnologias Utilizadas
 
-HTML
-CSS
-JAVASCRIPT
+- HTML
+- CSS
+- JAVASCRIPT
 
 ## Como Contribuir
 
