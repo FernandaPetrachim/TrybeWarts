@@ -1,4 +1,5 @@
-## Sobre Trybewarts
+## Bem-vindo ao repositório do projeto Trybewarts
+Este projeto faz parte do currículo do curso de Desenvolvimento Full Stack da Trybe
 
 Trybewarts é uma escola de magia fictícia, localizada em um mundo onde bruxos e bruxas estudam e aprimoram suas habilidades mágicas. 
 Fundada por um grupo de bruxos renomados há séculos, a escola é conhecida por sua excelência acadêmica e seu compromisso com a formação de bruxos responsáveis e éticos.
@@ -15,11 +16,17 @@ Fundada por um grupo de bruxos renomados há séculos, a escola é conhecida por
 Neste projeto, desenvolvemos uma página de formulário onde os estudantes de Trybewarts podem enviar feedbacks sobre sua experiência na escola.
 Utilizamos tecnologias web modernas, como HTML, CSS e JavaScript, para criar uma interface intuitiva e responsiva.
 
+
 ### Funcionalidades:
 
 - Formulário de Feedback: Os estudantes podem preencher o formulário com seus comentários, sugestões e críticas sobre diversos aspectos da escola, como a qualidade do ensino, as instalações, os eventos, entre outros.
 - Validação de Dados: Implementamos validação de dados no formulário para garantir que todas as informações sejam preenchidas corretamente antes de serem enviadas.
 - Envio de Feedback: Após preencher o formulário, os estudantes podem enviar seus feedbacks, que serão registrados em nosso sistema para análise pela administração da escola.
+
+## Tecnologias Utilizadas
+HTML
+CSS
+JAVASCRIPT
 
 ## Como Contribuir
 
@@ -33,7 +40,9 @@ Juntos, estamos tornando a experiência mágica de estudar em Trybewarts ainda m
 
 
 ## Contato 
+
 E-mail: fernanda_petrachim@hotmail.com
 
 ## Contribuição 
+
 Este projeto foi desenvolvido durante meu curso na Trybe com base no projeto 'TrybeWarts'. A Trybe é uma escola de programação que tem compromisso com o sucesso profissional.
